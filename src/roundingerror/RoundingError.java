@@ -1,7 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+  *Karl Butler
+ *2/18/2020
+ * AreaOfTriangle
+ * used to find the different of the square of the square of a number
  */
 package roundingerror;
 import javax.swing.*;
@@ -15,7 +16,7 @@ public class RoundingError {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //variables
+        //variables gInput is used to get the users number and the rest of the veriables are used for all the math 
         String gInput;
         double input,num1,num2,outPut;
        

@@ -1,5 +1,5 @@
 /**
-  *Karl Butler
+ *Karl Butler
  *2/18/2020
  * AreaOfTriangle
  * used to find the different of the square of the square of a number

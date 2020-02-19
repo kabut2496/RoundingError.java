@@ -29,7 +29,7 @@ public class RoundingError {
         num1 = Math.sqrt(input);
         num2 = num1*num1;
         
-        outPut = Math.abs(num2 - num1);
+        outPut = Math.abs(num2 - input);
         
         //outPuts
         
